@@ -63,7 +63,7 @@ WordPress version detected: **5.0**, which has RCE via image-crop chain.
 Exploit link: [https://www.exploit-db.com/exploits/49512](https://www.exploit-db.com/exploits/49512)
 
 Problem:
-The image-cropper filters out your PHP payload unless it's hidden in a safe, untouched part of the JPEG.
+The image-cropper filters out your PHP payload unless it's hidden in a safe, untouched part of the JPEG. Meta data gets reconstructed 
 
 Solution:
 
