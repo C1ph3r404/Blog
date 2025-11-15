@@ -140,3 +140,4 @@ Boom → root.
 ## REFERENCES
 * WordPress Crop RCE Module
 * [Bilal Rizwan’s writeup on XMLRPC](https://the-bilal-rizwan.medium.com/wordpress-xmlrpc-php-common-vulnerabilites-how-to-exploit-them-d8d3c8600b32)
+* [Wordpress Image RCE](https://www.sonarsource.com/blog/wordpress-image-remote-code-execution)
